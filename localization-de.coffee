@@ -108,7 +108,6 @@ module.exports = {
     "needs_moderator": "Die Berechtigung des Modertors ist dafür nötig"
     "user_exists": " Diese E-Mail-Adresse wird bereits von einem anderen User verwendet. Bitte versuchen Sie es mit einer anderen."
     "edit_profile": " Sie können Ihren Namen und Avatar auf Ihrer Profilseite ändern"
-    "view_as_moderator": " Toggle Moderator Ansicht"
     "delete": " Löschen"
     "top_answer": " Top Antwort"
     "create_user": " Oder erstellen Sie einen BurnZone-User"
@@ -202,7 +201,7 @@ module.exports = {
     "user_notif_LIKE_ANSWER": " {username} gefällt Ihre Antwort"
     "competitions": "Wettbewerbe"
     "competition_banner": "Wettbewerb: <strong> {title} </strong> {start} bis {end}, lesen Sie die <a target='_blank' href='{rules}'> Regeln </a> und mitreden </a> "
-    "competition_header": "<i class='icon-trophy'> </i> Win <a href='{prize_url}'> {prize} </a> durch den Beitritt der {community} Gemeinde und Kommentierung zwischen {start} - {end} (<span class='countdown'> {Countdown} </span> Rest, siehe <a target='_blank' href='{rules}'> Regeln </a>) "
+    "competition_header": "<i class='icon-trophy'> </i> Gewinnen <a href='{prize_url}'> {prize} </a> durch den Beitritt der {community} Gemeinde und Kommentierung zwischen {start} - {end} (<span class='countdown'> {Countdown} </span> Rest, siehe <a target='_blank' href='{rules}'> Regeln </a>) "
     "competition_starts_on": "Der Wettbewerb beginnt am"
     "competition_active": "Wettbewerb ist aktiv"
     "competition_ended_on": "Der Wettbewerb endete am"
@@ -215,5 +214,8 @@ module.exports = {
     "user_notif_COMPETITION_STARTING": "{days} Tage, bis der Wettbewerb beginnt: {title}"
     "user_notif_COMPETITION_END": "Der Wettbewerb endete: {title}"
     "user_notif_COMPETITION_ENDING": "Der Wettbewerb {title} endet in {days} Zeit"
+    "submit_comment": "Kommentar Abgeben"
+    "submit_question": "Frage absenden"
+    "reg_and_submit_comment": "Registrieren"
 }
 

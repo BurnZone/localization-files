@@ -108,7 +108,6 @@ module.exports = {
     "needs_moderator": "Для этого вам нужны права модератора"
     "user_exists": "Этот адрес электронной почты уже используется другим пользователем. Пожалуйста, попробуйте другой адрес."
     "edit_profile": "Вы можете изменить свое имя и аватар на странице профиля"
-    "view_as_moderator": "Переключить на вид модератора"
     "delete": "Удалить"
     "top_answer": "Топ-ответ"
     "create_user": "или создать пользователя BurnZone"
@@ -215,5 +214,7 @@ module.exports = {
     "user_notif_COMPETITION_STARTING": "{days} дней, пока не начнется конкуренции: {title}"
     "user_notif_COMPETITION_END": "Конкуренция закончилась: {title}"
     "user_notif_COMPETITION_ENDING": "Конкуренция {title} заканчивается в {days} дней"
+    "submit_comment": "Представьте комментарий"
+    "submit_question": "Представьте вопрос"
+    "reg_and_submit_comment": "Регистрация"
 }
-

@@ -108,7 +108,6 @@ module.exports = {
     "needs_moderator": "您需要版主的权限"
     "user_exists": "该电子邮件地址已被另一个用户使用。请尝试其他地址。"
     "edit_profile": "您可以从个人资料页面中更改名字和头像"
-    "view_as_moderator": "切换版主视图"
     "delete": "删除"
     "top_answer": "热门答案"
     "create_user": "或创建一个BurnZone用户"
@@ -238,4 +237,7 @@ module.exports = {
     "user_notif_COMPETITION_STARTING": "{days}天，直到比赛开始：{title_logo}"
     "user_notif_COMPETITION_END": "比赛结束：{title}"
     "user_notif_COMPETITION_ENDING": "竞争{title}结束在{days}天"
+    "submit_comment": "提交评论"
+    "submit_question": "提交问题"
+    "reg_and_submit_comment": "注册"
 }

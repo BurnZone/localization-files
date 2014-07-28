@@ -108,7 +108,6 @@ module.exports = {
     "needs_moderator": "議長の承認が必要です"
     "user_exists": " このメールアドレスは、すでに他のユーザーによって使用されます。別のメールアドレスをご利用ください。"
     "edit_profile": "プロフィールページから名前とアバターを変更することができます。"
-    "view_as_moderator": "議長からの視点"
     "delete": " 削除"
     "top_answer": "最初の回答"
     "create_user": " またはBurnZoneユーザーアカウントを作成"
@@ -215,4 +214,7 @@ module.exports = {
     "user_notif_COMPETITION_STARTING": "{days}競争が始まるまで{title}日"
     "user_notif_COMPETITION_END": "競争は終わった：{title} "
     "user_notif_COMPETITION_ENDING": "競争{title} {days}日で終わる "
+    "submit_comment": "コメント送信 "
+    "submit_question": "質問を送信」"
+    "reg_and_submit_comment": "登録"
 }

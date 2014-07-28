@@ -108,7 +108,6 @@ module.exports = {
     "needs_moderator": " Necesitas permisos de moderador para esto"
     "user_exists": " Esta dirección de correo electrónico ya está siendo utilizada por otro usuario. Por favor, prueba otra."
     "edit_profile": "Puedes cambiar tu nombre y avatar en tu página de perfil"
-    "view_as_moderator": " Cambiar a vista moderador "
     "delete": " Borrar"
     "top_answer": "Respuesta más común"
     "create_user": " O crear un usuario BurnZone"
@@ -215,5 +214,8 @@ module.exports = {
     "user_notif_COMPETITION_STARTING": "{days} días hasta que comience la competición: {title}"
     "user_notif_COMPETITION_END": "Terminó Competición: {title}"
     "user_notif_COMPETITION_ENDING": "La competencia {title} finalizando en {days} días"
+    "submit_comment": "Enviar comentario"
+    "submit_question": "Enviar pregunta"
+    "reg_and_submit_comment": "Registro"
 }
 
